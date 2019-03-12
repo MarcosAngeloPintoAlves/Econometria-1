@@ -1,0 +1,15 @@
+dictionary {
+_column(5)	byte	uf	%2f	"uf"
+_column(18)	byte	v0302	%1f	"sexo"
+_column(27)	int	v8005	%3f	"idade do morador"
+_column(33)	byte	v0404	%1f	"cor ou raca"
+_column(737)	double	v4719	%12f 	"rend mensal todos os trabalhos, 10 ou +"
+_column(703)	byte	v4803	%2f	"anos de estudo"
+_column(789)	byte	v4727	%1f	"cód. área censitária"
+_column(305)	byte	v9032	%1f	"setor do emprego"
+_column(360)	byte	v9058	%2f	"n horas trab. semana"
+_column(356)	byte	v9054	%1f	"tipo de estabelecimento"
+_column(315)	byte	v9042	%1f	"tem carteira assinada"
+_column(77)	byte	v6007	%2f	"curso mais elevado que freqüentou"
+_column(31)	byte	v0402	%1f	"condição na família"
+}
